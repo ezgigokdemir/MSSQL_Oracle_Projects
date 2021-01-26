@@ -1,0 +1,3 @@
+INSERT [dbo].[DEPARTMENT] ([DEPARTMENT_NAME]) VALUES ('Utility Software');
+INSERT [dbo].[DEPARTMENT] ([DEPARTMENT_NAME]) VALUES ('System Software');
+INSERT [dbo].[DEPARTMENT] ([DEPARTMENT_NAME]) VALUES ('Application Software')

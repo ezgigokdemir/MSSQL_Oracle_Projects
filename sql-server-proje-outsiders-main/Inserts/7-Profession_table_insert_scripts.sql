@@ -1,0 +1,16 @@
+INSERT [dbo].[PROFESSION] ([PROFESSION_NAME]) VALUES ('IT Director');
+INSERT [dbo].[PROFESSION] ([PROFESSION_NAME]) VALUES ('IT Manager');
+INSERT [dbo].[PROFESSION] ([PROFESSION_NAME]) VALUES ('Help Desk Technician');
+INSERT [dbo].[PROFESSION] ([PROFESSION_NAME]) VALUES ('Help Desk Specialist');
+INSERT [dbo].[PROFESSION] ([PROFESSION_NAME]) VALUES ('IT Systems Administrator');
+INSERT [dbo].[PROFESSION] ([PROFESSION_NAME]) VALUES ('Junior Developer');
+INSERT [dbo].[PROFESSION] ([PROFESSION_NAME]) VALUES ('Senior Software Engineer');
+INSERT [dbo].[PROFESSION] ([PROFESSION_NAME]) VALUES ('Junior Software Engineer');
+INSERT [dbo].[PROFESSION] ([PROFESSION_NAME]) VALUES ('Senior Systems Software Engineer');
+INSERT [dbo].[PROFESSION] ([PROFESSION_NAME]) VALUES ('Java Developer');
+INSERT [dbo].[PROFESSION] ([PROFESSION_NAME]) VALUES ('ABAP Developer');
+INSERT [dbo].[PROFESSION] ([PROFESSION_NAME]) VALUES ('Senior Developer');
+INSERT [dbo].[PROFESSION] ([PROFESSION_NAME]) VALUES ('Technical Support Engineer');
+INSERT [dbo].[PROFESSION] ([PROFESSION_NAME]) VALUES ('Technical Support Specialist');
+INSERT [dbo].[PROFESSION] ([PROFESSION_NAME]) VALUES ('Customer Support Administrator');
+INSERT [dbo].[PROFESSION] ([PROFESSION_NAME]) VALUES ('Customer Support Specialist');
