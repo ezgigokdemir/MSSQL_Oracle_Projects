@@ -1,0 +1,22 @@
+CREATE SEQUENCE AUTHOR_SEQ
+    MINVALUE 1
+    MAXVALUE 999999999999999999999999999
+    START WITH 1
+    INCREMENT BY 1
+    CACHE 20;
+    
+
+INSERT INTO AUTHOR
+VALUES (AUTHOR_SEQ.nextval, 'Halide Edib', 'Adývar');
+
+INSERT INTO AUTHOR
+VALUES (AUTHOR_SEQ.nextval, 'Ömer', 'Seyfettin');
+
+INSERT INTO AUTHOR
+VALUES (AUTHOR_SEQ.nextval, 'Peyami', 'Safa');
+
+INSERT INTO AUTHOR
+VALUES (AUTHOR_SEQ.nextval, 'Ahmet Hamdi', 'Tanpýnar');
+
+INSERT INTO AUTHOR
+VALUES (AUTHOR_SEQ.nextval, 'Sait Faik', 'Abasýyanýk ');
